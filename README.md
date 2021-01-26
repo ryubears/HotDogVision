@@ -1,2 +1,2 @@
 # HotDogVision
-Custom hotdog classifier model build using convolutional neural network.
+Custom hotdog classifier model built using convolutional neural network.
